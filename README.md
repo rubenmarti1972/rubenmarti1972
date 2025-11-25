@@ -17,18 +17,25 @@ Apasionado por la educación matemática, los proyectos sociales y el desarrollo
 ---
 
 ### 🧩 Proyectos Destacados
+#### Covinoc
+- Angular 15
+🔗 https://covinoc.com/#/
 
 #### 🌐 FACOPEC – Plataforma educativa
 - Angular 19 + Strapi 5 + Firebase + Cloudinary  
 - Portal institucional + formulario de empleabilidad  
-🔗 https://facopec.org (o el link que tengas)
+🔗 https://fundacion-afrocolombiana.web.app/inicio
 
 #### 🟦 Fundapromat Visualizador
 - Angular + Firebase Firestore/Storage  
 - Mural interactivo de agradecimientos
+🔗 https://jolgorios-f5048.web.app/form
 
-#### 🟧 Adara Marketplace
-- Angular PWA + Strapi CMS + QR menus  
+
+#### 🟦 Fundapromat Visualizador
+- Angular + Firebase Firestore/Storage  
+- Juego didáctico de Matemática
+🔗 https://encerrando-colores.web.app/
 
 #### 🏢 Balcones de Salesia
 - App administrativa para condominio  
